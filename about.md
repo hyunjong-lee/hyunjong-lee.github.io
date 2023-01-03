@@ -26,49 +26,98 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+![sky](/assets/images/sky.jpg)
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+## Objectives
+
+- Happy life with family and friends
+- Top level specialist in machine learning
+- Top level unity developer
+- Top level expert in computer engineering and science.
 
 ```javascript
-(() => console.log('Hello, World!'))();
+(() => console.log('Hello from about page!'))();
 ```
 
-## Features
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+## SNS
 
-## Skins
+* [LinkedIn]
+* [SlideShare]
 
-TeXt has 6 built-in skins, you can also set up your own skin.
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+### Interested in
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+* Game Development
+* Machine Learning
+* Problem Solving
 
-### Highlight Theme
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+### Majored in
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+* Recommendation System
+* Sentiment Analysis
+* Computer Science & Engineering
+
+
+### Education
+
+* Korea Advanced Institute of Science and Technology
+	* M.S. (August 2010)
+	* Department of Computer Science
+	* Sentiment Analysis
+* Inha University
+	* B.S. (August 2008)
+	* Department of Computer Science and Engineering
+
+
+### Industry Experience
+
+* Krafton (Dec 2017 -)
+* Kakao (Feb 2015 - Dec 2017)
+	* Advanced Recommendation Technology (ART)
+		* Scalable realtime recommendation
+* Bluehole Studio (May 2012 - Nov 2014)
+	* Game log analysis
+	* MMORPG game server programming
+* WiseNut DataMining TF (Sep 2010 – May 2012) 
+	* Topic Modeling
+
+
+### Certificated
+
+* [Data Mining Specialization]
+* [Data Mining Capstone]
+* [Data Visualization]
+* [Text Mining and Analytics]
+* [Cluster Analysis in Data Mining]
+* [Text Retrieval and Search Engines]
+* [Pattern Discovery in coursera]
+* [Probabilistic Graphical Models in coursera]
+* [Machine Learning in coursera]
+
+
+### Skills in Computer Engineering
+
+* C/C++, C#, JAVA, Python
+* HBase/Hadoop, DynamoDB, MS-SQL, MySQL, Sqlite
+* Netty, Nancy, Django, AngularJS
+
+
+[LinkedIn]: https://www.linkedin.com/in/hyunjonglee
+[Facebook]: https://www.facebook.com/hyunjong.lee.s
+[Twitter]: https://www.twitter.com/hyunjonglees
+[SlideShare]: http://www.slideshare.net/hyunjonglees
+[GitHub]: https://github.com/hyunjong-lee
+[Machine Learning in coursera]: /assets/pdf/ml-coursera.pdf
+[Probabilistic Graphical Models in coursera]: /assets/pdf/pgm-coursera.pdf
+[Pattern Discovery in coursera]: /assets/pdf/pattern_discovery-coursera.pdf
+[Text Retrieval and Search Engines]: /assets/pdf/text_retrieval_and_search_engine-coursera.pdf
+[Cluster Analysis in Data Mining]: /assets/pdf/cluster_analysis_in_data_mining.pdf
+[Text Mining and Analytics]: /assets/pdf/text_mining_and_analytics-coursera.pdf
+[Data Visualization]: /assets/pdf/data_visualization-coursera.pdf
+[Data Mining Capstone]: /assets/pdf/data_mining_capstone-coursera.pdf
+[Data Mining Specialization]: /assets/pdf/data_mining_specialization-coursera.pdf
+[Algospot]: https://algospot.com/user/profile/475
+[TopCoder]: http://community.topcoder.com/tc?module=MemberProfile&cr=22735778
+[acmicpc.net]: https://www.acmicpc.net/user/cosmosLee

@@ -23,7 +23,7 @@ default:
       theme: light
     articles:
       show_cover: true
-      show_excerpt: false
+      show_excerpt: true
       show_readmore: false
       show_info: false
     show_title: true
