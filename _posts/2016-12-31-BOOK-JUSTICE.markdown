@@ -3,6 +3,8 @@ title: 공대생이 읽은 JUSTICE 정의란 무엇이가
 key:   20161231
 date:  2016-12-31 06:20:13
 tags:  book review
+redirect_from:
+  - /blog/2016/BOOK-JUSTICE/
 ---
 
 본 포스팅은 [정의란 무엇인가]에 대한 저의 생각을 담고 있습니다.

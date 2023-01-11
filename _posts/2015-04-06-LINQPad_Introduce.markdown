@@ -3,6 +3,8 @@ title: LINQPad - C#을 스크립트 언어처럼
 key:   20150406
 date:  2015-04-06 01:25:41
 tags:  C# LINQPad
+redirect_from:
+  - /blog/2015/LINQPad_Introduce/
 ---
 
 #### C#을 스크립트 언어처럼 쓸 수 있다면?

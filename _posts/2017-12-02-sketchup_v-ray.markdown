@@ -3,6 +3,8 @@ title: 서평 [스케치업 & V-RAY 트레이닝 북]
 key:   20171202
 date:  2017-12-02 07:26:31
 tags:  book review
+redirect_from:
+  - /blog/2017/sketchup_v-ray/
 ---
 
 본 포스팅은 [스케치업&V-RAY 트레이닝 북] 에 대한 후기를 담고 있습니다.

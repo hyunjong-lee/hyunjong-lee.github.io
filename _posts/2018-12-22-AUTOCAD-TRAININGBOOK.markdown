@@ -3,6 +3,8 @@ title: 오토캐드 트레이닝 북
 key:   20181222
 date:  2018-12-22 6:52:32
 tags:  book review
+redirect_from:
+  - /blog/2018/AUTOCAD-TRAININGBOOK/
 ---
 
 본 포스팅은 [오토캐드 트레이닝 북](http://www.hanbit.co.kr/store/books/look.php?p_code=B6270769200) 에 대한 후기를 담고 있습니다.
