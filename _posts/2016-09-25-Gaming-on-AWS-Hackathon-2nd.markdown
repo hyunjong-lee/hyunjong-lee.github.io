@@ -3,6 +3,8 @@ title: Gaming on AWS Hackathon 참가 후기
 key:   20160925
 date:  2016-09-25 10:53:24
 tags:  AWS hackathon
+redirect_from:
+  - /blog/2016/Gaming-on-AWS-Hackathon-2nd/
 ---
 
 ![Gaming on AWS Hackathon](/assets/images/aws_hackathon_2016/gamingonaws__hackathon.png)

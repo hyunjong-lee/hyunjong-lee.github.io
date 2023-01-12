@@ -3,6 +3,8 @@ title: Apache Cordova
 date:  2015-02-04 12:00:53
 key:   20150204
 tags:  apache cordova
+redirect_from:
+  - /blog/2015/Apache_Cordova/
 ---
 
 제가 회사를 다니면서 혹은 혼자서 취미생활을 하면서 주로 할일 위주로 시간을 관리했습니다.

@@ -3,6 +3,8 @@ title: 돈이란 무엇인가
 key:   20190115
 date:  2019-01-15 1:26:48
 tags:  book review
+redirect_from:
+  - /blog/2019/THINK-MONEY-THINK-LIFE/
 ---
 
 본 포스팅은 [돈이란 무엇인가](http://www.yes24.com/24/goods/56676098) 에 대한 후기를 담고 있습니다.

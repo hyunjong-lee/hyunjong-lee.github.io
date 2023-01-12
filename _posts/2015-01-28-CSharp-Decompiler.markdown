@@ -3,6 +3,8 @@ title: C# Decompiler
 key:   20150128
 date:  2015-01-28 11:03:41
 tags:  C# decompile
+redirect_from:
+  - /blog/2015/CSharp-Decompiler/
 ---
 
 오늘은 제가 원하는 회사에 최종 면접을 보러 다녀왔습니다. -_-a

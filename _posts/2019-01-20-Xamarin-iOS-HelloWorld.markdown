@@ -3,6 +3,8 @@ title: Xamarin으로 iOS 앱 실행해보기
 key:   20190120
 date:  2019-01-20 21:08:39
 tags:  C# Xamarin iOS
+redirect_from:
+  - /blog/2019/Xamarin-iOS-HelloWorld/
 ---
 
 본 포스팅은 [Xamarin](https://visualstudio.microsoft.com/xamarin/)을 활용하여 iOS 앱을 빌드해서 실행해 본 과정을 담고 있습니다.

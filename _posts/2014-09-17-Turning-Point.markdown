@@ -3,6 +3,8 @@ title: 블로그 개시
 key:   20140917
 date:  2014-09-17 2:05:00
 tags:  misc
+redirect_from:
+  - /blog/2014/Turning-Point/
 ---
 
 워드프레스에 가입도 하고 블로그 엔진을 설치해보기도 했지만 포스팅을 하지 않아 모두 실패하였습니다.

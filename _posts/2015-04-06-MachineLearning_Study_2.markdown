@@ -3,6 +3,8 @@ title: Machine Learning Chapter 2
 key:   20150406
 date:  2015-04-06 02:12:00
 tags:  ml study
+redirect_from:
+  - /blog/2015/MachineLearning_Study_2/
 ---
 
 [Pattern Recognition and Machine Learning] (이하 PRML) 2장을 읽고 있는데 진도가 잘 나가지 않습니다.

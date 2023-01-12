@@ -3,6 +3,8 @@ title: 서평 [C#과 데이터베이스로 누구나 쉽게 주식 자동매매 
 key:   20170406
 date:  2017-04-06 01:42:10
 tags:  book review
+redirect_from:
+  - /blog/2017/Trading_System_using_CSharp/
 ---
 
 본 포스팅은 [C#과 데이터베이스로 누구나 쉽게 주식 자동매매 시스템 만들기] 도서에 대한 후기를 담고 있습니다.

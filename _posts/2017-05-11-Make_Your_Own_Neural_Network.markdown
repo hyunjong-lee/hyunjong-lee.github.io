@@ -3,6 +3,8 @@ title: 서평 [신경망 첫걸음]
 key:   20170511
 date:  2017-05-11 21:38:22
 tags:  book review
+redirect_from:
+  - /blog/2017/Make_Your_Own_Neural_Network/
 ---
 
 본 포스팅은 [신경망 첫걸음] 에 대한 후기를 담고 있습니다.
