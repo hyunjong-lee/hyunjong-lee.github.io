@@ -1,7 +1,7 @@
 ---
 title: [서평] NGINX 쿡북(2판)
-key:   20220220
-date:  2022-02-20 02:09:27
+key:   20230220
+date:  2023-02-20 02:09:27
 tags:  nginx book review
 ---
 
