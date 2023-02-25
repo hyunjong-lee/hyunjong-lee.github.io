@@ -18,7 +18,7 @@ NGINX는 백엔드 개발을 해봤다면 한 번 이상 사용해봤을 것이�
 
 1. 첫번째는 운영툴에서 Reverse Proxy 로 쓰면서 여러개의 Web Server를 묶어서 API 와 웹서비스를 제공하는 형태로 사용했다. 이 때, static 파일의 경우 NGINX에서 이미 한번 보냈던 경로에 대해서는 캐싱을 하고 있다가 다시 요청이 오면 웹서버에 요청을 보내지 않고 캐싱된 파일을 제공하는 형태로 구성했다.
 
-  - ![Reverse Proxy](/assets/images/nginx_cookbook_2nd/reverse_proxy.webp){:.rounded}
+  - ![Reverse Proxy](/assets/images/nginx_cookbook_2nd/reverse-proxy.webp){:.rounded}
   - https://www.imperva.com/learn/performance/reverse-proxy/
 
 2. 두번째는 Kubernetes (K8s)의 Ingress Controller 로써 사용중이었고 서비스에 도달하지 못했을 때 원인 파악을 위해 NGINX 로그를 한참 들여다보곤 했다.
