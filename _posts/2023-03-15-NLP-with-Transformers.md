@@ -2,7 +2,7 @@
 title: 서평 - 트랜스포머를 활용한 자연어 처리 (Natual Language Processing with Transformers)
 key:   20230315
 date:  2023-03-15 23:47:14
-tags:  nginx book review
+tags:  transformer deep machine learning book review
 ---
 
 이 포스팅은 도서 [트랜스포머를 활용한 자연어 처리](https://www.hanbit.co.kr/store/books/look.php?p_code=B2369016915)에 대한 리뷰를 담고 있습니다.
