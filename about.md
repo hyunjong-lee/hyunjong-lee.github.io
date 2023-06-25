@@ -60,6 +60,20 @@ key: page-about
 * Computer Science & Engineering
 
 
+### Industry Experience
+
+* Coupang (June 2023 -)
+* Krafton (Dec 2017 - May 2023)
+* Kakao (Feb 2015 - Dec 2017)
+	* Advanced Recommendation Technology (ART)
+		* Scalable realtime recommendation
+* Bluehole Studio (May 2012 - Nov 2014)
+	* Game log analysis
+	* MMORPG game server programming
+* WiseNut DataMining TF (Sep 2010 – May 2012) 
+	* Topic Modeling
+
+
 ### Education
 
 * Korea Advanced Institute of Science and Technology
@@ -69,19 +83,6 @@ key: page-about
 * Inha University
 	* B.S. (August 2008)
 	* Department of Computer Science and Engineering
-
-
-### Industry Experience
-
-* Krafton (Dec 2017 -)
-* Kakao (Feb 2015 - Dec 2017)
-	* Advanced Recommendation Technology (ART)
-		* Scalable realtime recommendation
-* Bluehole Studio (May 2012 - Nov 2014)
-	* Game log analysis
-	* MMORPG game server programming
-* WiseNut DataMining TF (Sep 2010 – May 2012) 
-	* Topic Modeling
 
 
 ### Certificated
