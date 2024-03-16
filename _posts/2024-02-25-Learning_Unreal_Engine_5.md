@@ -2,7 +2,7 @@
 title: 서평 - 따라하며 배우는 언리얼 엔진5 입문
 key:   20240225
 date:  2024-02-25 4:04:20
-tags:  unity game development beginner 2d 3d book review
+tags:  unreal engine 5 game development beginner 2d 3d book review
 ---
 
 이 포스팅은 도서 [따라 하며 배우는 언리얼 엔진 5 입문]에 대한 리뷰를 담고 있습니다.
